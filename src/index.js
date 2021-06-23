@@ -1,2 +1,2 @@
-import Character from './js/character';
-import types from './js/types';
+import './js/character';
+import './css/style.css';
